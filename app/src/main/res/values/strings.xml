@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name">EcoQuiz</string>
+
+    <!-- LOGIN/REGISTER -->
+    <string name="textView_login_sign_in">Iniciar Sesión</string>
+    <string name="editText_login_hint_username">Usuario</string>
+    <string name="editText_login_hint_password">Contraseña</string>
+    <string name="button_login_text">Acceder</string>
+    <string name="textView_button_login_register">Registrarse</string>
+
+    <string name="textView_register_repeat_password">Repite la contraseña</string>
+    <string name="textView_register_login_text">Iniciar sesión</string>
+
+    <!-- AVATAR -->
+    <string name="textView_avatar_text">Avatar</string>
+
+    <!-- ITEMS -->
+    <string name="item_menu_menu">Menú</string>
+    <string name="item_menu_profile">Perfil</string>
+    <string name="item_menu_settings">Opciones</string>
+    <string name="item_menu_ranking">Ranking</string>
+
+    <!-- MENU -->
+    <string name="button_menu_jugar">Jugar</string>
+    <string name="button_menu_ranking">Ranking</string>
+    <string name="button_menu_settings">Opciones</string>
+
+    <!-- SETTINGS -->
+    <string name="switch_music">Música</string>
+    <string name="switch_sound">Sonido</string>
+    <string name="button_signOff">Cerrar Sesión</string>
+    <string name="button_change_password">Cambiar contraseña</string>
+    <string name="label_repeat_user">El usuario ya existe.</string>
+    <string name="label_update_user">Nombre modificado con éxito.</string>
+    <string name="label_profile">Perfil</string>
+    <string name="label_setings">Ajustes</string>
+    <string name="button_back_to_menu">Volver al Menú</string>
+
+    <!-- FIRST SCREEN -->
+    <string name="textView_by">de</string>
+    <string name="textView_company">.blanco();</string>
+
+    <!-- SIGN OFF DIALOG -->
+    <string name="sign_off_dialog_tittle">¿Cerrar sesión?</string>
+    <string name="sign_off_dialog_confirm"><u>Confirmar</u></string>
+    <string name="change_password_dialog_confirm">Confirmar</string>
+    <string name="sign_off_dialog_cancel">Cancelar</string>
+
+    <!-- CHANGE PASSWORD DIALOG -->
+    <string name="change_password_hint_current_password">Contraseña actual</string>
+    <string name="change_password_hint_new_password">Nueva contraseña</string>
+    <string name="change_password_hint_repeat_new_password">Repite la nueva contraseña</string>
+
+    <!-- RANKING -->
+    <string name="textView_ranking_tittle">TOP 10</string>
+    <string name="button_ranking_volver">Menú principal</string>
+    <string name="textView_score">Mejor marca:</string>
+
+    <!-- SNACKBAR -->
+    <string name="snackbar_empty_fields">No puede haber campos vacíos.</string>
+    <string name="snackbar_different_passwords">Las contraseñas no coinciden.</string>
+    <string name="snackbar_repeat_player">Ya existe el jugador</string>
+    <string name="snackbar_post_player">¡Registro completado!</string>
+    <string name="snackbar_wrong_login">Nombre o contraseña incorrectos.</string>
+
+    <!-- PLAY -->
+    <string name="snackbar_correct_answer">Respuesta correcta</string>
+    <string name="snackbar_wrong_answer">Respuesta incorrecta</string>
+    <string name="next_question">Siguiente pregunta</string>
+
+</resources>
